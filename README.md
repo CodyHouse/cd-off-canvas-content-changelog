@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Off-Canvas Content - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Off-Canvas Content component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/off-canvas-content)
+- [Info Page](https://codyhouse.co/ds/components/info/off-canvas-content)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
