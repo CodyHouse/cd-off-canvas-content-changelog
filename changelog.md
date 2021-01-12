@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2021-01-12
+- New custom events triggerOpenPanel and triggerClosePanel
+
 ## [1.1.0] - 2020-09-01
 - Added --top and --bottom variations
 
